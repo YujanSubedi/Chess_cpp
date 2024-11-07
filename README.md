@@ -1,5 +1,5 @@
 ### Chess:
-Chess  game made from c++ Raylib.
+Chess  game made from c++ Raylib. Inspired from https://github.com/aayushgunner/ChessRayLib.
 
 #### Implementation:
 Basic server/client playing mode, minimax bot with multithreading, simple bitbaord design for game state.
